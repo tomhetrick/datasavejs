@@ -6,6 +6,6 @@ A simple JavaScript application to save many properties into objects, which is u
 
 ## **Data.save()**
 
-Function Syntax: 
+**Function Syntax:**
 
    Data.save(Object name,poperty      name, value);
