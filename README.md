@@ -4,4 +4,4 @@ A simple JavaScript application to save many properties into objects, which is u
 # **Use:**
 
 
-**Data.save()
+# **Data.save()**
