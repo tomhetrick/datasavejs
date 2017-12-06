@@ -9,3 +9,8 @@ A simple JavaScript application to save many properties into objects, which is u
 **Function Syntax:**
 
    Data.save(Object name,poperty      name, value);
+
+**Example:**
+   Data.save(“Cookies”,”amount”,10);
+
+This would now save in a Object (which is always Data.(name of object) The information is stored as an aaray. So, if we create a new object, and save this information, **amount** will now br stored in Data.Cookies[0] and the value of the value of that property, **10** will be stored at Data.Cookies[1]
