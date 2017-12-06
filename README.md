@@ -18,4 +18,10 @@ This would now save in a Object (which is always Data.(name of object) The infor
 ## **Data.get()**
 
 **Function Syntax:**
+
    Data.get(Object Name, Property Name);
+
+**Example:**
+   Data.get(“Cookies”,”amount”);
+Using the previous example, doing this function would now returm the value of the property, **amount**
+This means that you can use it later by calling this function to get the value of a given property.
